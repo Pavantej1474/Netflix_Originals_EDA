@@ -34,10 +34,17 @@ Find the 3 most used languages in the movies in the data set.
 Top 10 Movies With IMDB Ratings
 
 What is the correlation between IMDB score and 'Runtime'? Examine and visualize.
+
 Top 10 Genre by IMDB Score
+
 What are the top 10 movies with the highest 'runtime'? Visualize it.
+
 In which year was the most movies released? Visualize it.
+
 Which language movies have the lowest average IMDB rating? Visualize it.
+
 Which year has the greatest total runtime?
+
 What is the "Genre" where each language is used the most?
+
 Is there any outlier data in the data set? Please explain.
